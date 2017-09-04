@@ -1,0 +1,61 @@
+body{
+    background-image: url(bluemetal.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+.one{
+    background-color:lightgrey;
+    font-size: larger;
+    font-style: italic;
+    
+}
+.outsidewrapper {
+    display: flex;
+    flex-flow: row wrap;
+}
+
+.flexbox1 {
+    flex: 1 1 3em;
+    align-content: center;
+     border: solid yellow 3px;
+}
+
+.flexbox2 {
+    border: solid red 3px;
+  
+    flex: 1 1 1em;
+}
+.flexbox3 {
+    border: solid red 3px; 
+}
+h1 {
+    color: white !important;
+}
+p {
+    color: white;
+}
+.form-group {
+    width: 40%;
+    margin: 0px;
+   
+}
+.form-group center-block {
+    width: 100%;
+}
+
+.col-sm-6 {
+ 
+    width: 20%;
+   
+}
+.form-group center-block {
+    display: block;
+    width: 100%;
+}
+
+
+.col-sm-5 {
+    padding: 10px;
+    margin: 10px;
+    margin-left: 25px;
+}
