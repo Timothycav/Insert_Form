@@ -119,7 +119,7 @@ mysqli_close($conn);
                 <input type="submit" class="btn btn-primary btn-sm btn-block" name="add" value="Add Entry">
                
             </div>
-            <div class="flexbox2"><p> This is the second box </p></div>
+            <div class="flexbox2"><p> This is the second Flex box </p></div>
          </div>
         <!-- jQuery -->
         <script src="//code.jquery.com/jquery-2.1.4.min.js"></script>
